@@ -8,20 +8,20 @@
 </head>
 <body>
     <div class="header">
-        <img src="img/github.png" alt="Ícone do GitHub" class="icone">
+        <img src="img/githubRoxo.png" alt="Ícone do GitHub" class="icone">
         <h1 class="titulo">GitHub</h1>
     </div>
 
     <div class="corpo">
     <div class="row">
         <div class="menu col-2 col-s-3">
-            <h3>Principais commandos</h3>
-            <ul>
-                <li>Git init</li>
-                <li>Git clone</li>
-                <li>Git Commit</li>
-                <li>Git branch</li>
-                <li>Git checkout</li>
+            <h2>Principais comandos</h2>
+            <ul id="listaComandos">
+                <li id="comandoInit">Git init</li>
+                <li id="comandoClone">Git clone</li>
+                <li id="comandoCommit">Git Commit</li>
+                <li id="comandoBranch">Git branch</li>
+                <li id="comandoCheckout">Git checkout</li>
             </ul>
         </div>
 
@@ -31,13 +31,28 @@
             provavelmente vai ter seu repositório e usar no dia a dia.</p>
             <p>O sistema web que ele possui permite que você altere arquivos lá mesmo, apesar de não ser muito aconselhado, pois você não
             terá um editor, um ambiente de desenvolvimento e de testes. Para se comunicar com o github e mexer nos arquivos do seu repositório,
-            você pode usar a linha de comando, usando o comando do git e suas diretivas de commit, pull e push. Parece assustador? Há uma alternativa: usar um aplicativo desktop mais intuitivo, o GitHub Desktop, veja a seguir.</p>
+            você pode usar a linha de comando, usando o comando do git e suas diretivas de commit, pull e push. Parece assustador? Há uma alternativa: 
+            usar um aplicativo desktop mais intuitivo, o GitHub Desktop, veja a seguir.</p>
+            
+            <h2>Github Desktop: usar Git sem precisar configurar e manter um servidor</h2>
+            <p>O Github Desktop é uma casca para o comando do git, que esconde alguns termos que podem ser assustadores para quem está começando. Eu indico 
+               fortemente seu uso como primeiro passo, pois o sistema inteiro dá uma cara de "sincronizador de código". Ele facilita as visualizações, o envio 
+               e o recebimento das modificações, além dos famosos conflitos de merge, que você não precisa se preocupar nesse primeiro instante.</p>
+            
+               <div class="gitHubDesktop">
+                <img src="img/gitHubDesktop.jpg" alt="Imagem do GitHub Desktop" class="col-s-2 col-9">
+            </div>
+            <h2 id="comandoNome"></h2>
+            <p id="comandoSelecionado"></p>
         </div>
     </div>
     </div>
 
     <div class="footer">
+        <img src="img/octocatGitHub.png" alt="Octocat GitHub" class="iconeFooter">
         <p>Feito com carinho!</p>
     </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
