@@ -1,4 +1,4 @@
-# Projeto Treinando comandos Git
+# Atividade GitHub
 Bem-vindo ao projeto de treinamento Git utilizando HTML, CSS e JavaScript! Este projeto foi criado com o propósito de aprendizagem dos comandos básicos do Git, como git commit, git clone, git push e outros.
 
 # Visão Geral do Projeto
