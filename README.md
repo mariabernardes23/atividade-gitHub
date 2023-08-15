@@ -1,24 +1,8 @@
-# Atividade GitHub
-Bem-vindo ao projeto de treinamento Git utilizando HTML, CSS e JavaScript! Este projeto foi criado com o propósito de aprendizagem dos comandos básicos do Git, como git commit, git clone, git push e outros.
+# Atividade Git e GitHub
+Bem-vindo ao Projeto de Treinamento Git e GitHub utilizando HTML, CSS e JavaScript! Este projeto foi concebido com o propósito primordial de aprendizagem dos fundamentos do Git e GitHub. 
 
-# Visão Geral do Projeto
-Este projeto de treinamento consiste em uma aplicação web básica construída com HTML, CSS e JavaScript. O objetivo principal é praticar a utilização dos comandos do Git para controle de versão e colaboração em equipe. A aplicação em si pode ser simples, como uma página estática com alguns elementos interativos.
 
-# Estrutura do Projeto
-A estrutura do projeto é simples e organizada da seguinte forma:
+## Aprendizados
+Ao realizar esse projeto, pude explorar de forma prática e aplicada os comandos fundamentais do Git, incluindo o git commit, git clone e git push, entre outros. Essa exploração se deu por meio da construção de uma página web simples, onde tive a chance de não apenas compreender teoricamente esses comandos, mas também utilizá-los em cenários reais.
 
-atividade-gitHub/
-|-- index.html
-|-- styles.css
-|-- script.js
-|-- img
-|   |gitHubDesktop.png
-|   |githubRoxo.png
-|   |octocatGitHub.png
-|-- README.md
 
-* O arquivo index.html contém a estrutura da página web.
-* O arquivo styles.css contém as regras de estilo para a página.
-* O arquivo script.js contém o código JavaScript para interatividade.
-* A pasta img contém contém algumas imagens utilizadas no projeto.
-* O arquivo README.md é o próprio arquivo que você está lendo agora, contendo informações sobre o projeto.
