@@ -12,6 +12,6 @@ Ao realizar esse projeto, pude explorar de forma prática e aplicada os comandos
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#FFFFFF](https://via.placeholder.com/10/0a192f?text=+) #FFFFFF |
-| Cor exemplo       | ![#aab2ff](https://via.placeholder.com/10/f8f8f8?text=+) #aab2ff |
+| Cor exemplo       | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Cor exemplo       | ![#aab2ff](https://via.placeholder.com/10/AAB2FF?text=+) #AAB2FF |
 
